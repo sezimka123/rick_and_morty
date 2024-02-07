@@ -1,0 +1,5 @@
+{
+    "hello": "Привет",
+    "appbar_title": "Это аппбар",
+    "test_name": "Ваш баланс: {amount} сом"
+}

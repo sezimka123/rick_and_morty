@@ -1,0 +1,5 @@
+{
+    "hello": "hello",
+    "appbar_title": "It's AppBar",
+    "test_name": "Your balance is: {amount} som"
+}
